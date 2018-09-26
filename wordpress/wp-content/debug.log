@@ -1,0 +1,785 @@
+[26-Sep-2018 06:57:05 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 06:57:05 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 06:58:18 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 06:58:18 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 06:58:23 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 06:58:23 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 06:58:39 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 06:58:39 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:00:02 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:00:02 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:01:11 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:01:11 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:01:32 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:01:32 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:01:33 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:01:33 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:01:34 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:01:34 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:01:45 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:01:45 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:01:55 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:01:56 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:02:10 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:02:10 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:02:27 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:02:27 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:02:30 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:02:30 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:04:30 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:04:30 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:04:31 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:04:31 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:04:33 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:04:33 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:04:36 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:04:37 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:04:39 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:04:39 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:04:40 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:04:40 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:10:27 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:10:27 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:10:42 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:10:42 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:10:48 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:10:48 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:32:59 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:32:59 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:33:04 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:33:04 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:33:07 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:33:07 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:33:11 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:33:11 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:35:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_sidebar() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\sidebar.php:1
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(688): require_once()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', true)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(110): locate_template(Array, true)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\index.php(21): get_sidebar()
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\sidebar.php on line 1
+[26-Sep-2018 07:35:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_sidebar() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\sidebar.php:1
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(688): require_once()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', true)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(110): locate_template(Array, true)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\index.php(21): get_sidebar()
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\sidebar.php on line 1
+[26-Sep-2018 07:35:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_sidebar() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\sidebar.php:1
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(688): require_once()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', true)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(110): locate_template(Array, true)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\index.php(21): get_sidebar()
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\sidebar.php on line 1
+[26-Sep-2018 07:40:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_sidebar() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\sidebar.php:1
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(688): require_once()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', true)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(110): locate_template(Array, true)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\index.php(21): get_sidebar()
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\sidebar.php on line 1
+[26-Sep-2018 07:41:25 UTC] PHP Notice:  register_sidebar was called <strong>incorrectly</strong>. No <code>id</code> was set in the arguments array for the "Sidebar 1" sidebar. Defaulting to "sidebar-1". Manually set the <code>id</code> to "sidebar-1" to silence this notice and keep existing sidebar content. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 4.2.0.) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 4161
+[26-Sep-2018 07:41:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_foot() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\footer.php:1
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(688): require_once()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', true)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(76): locate_template(Array, true)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\index.php(24): get_footer()
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\footer.php on line 1
+[26-Sep-2018 07:49:31 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\index.php on line 27
+[26-Sep-2018 07:50:05 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\index.php on line 27
+[26-Sep-2018 07:54:25 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\index.php on line 28
+[26-Sep-2018 08:05:10 UTC] PHP Notice:  Undefined variable: mycustomerquery in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\index.php on line 7
+[26-Sep-2018 08:05:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\index.php:7
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#3 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\index.php on line 7
+[26-Sep-2018 08:05:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_post_data() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\index.php:23
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#3 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\scratch\index.php on line 23
+[26-Sep-2018 08:09:34 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 08:09:34 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 08:09:39 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 08:09:39 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 08:09:42 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 08:09:42 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 08:09:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_post_data() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php:23
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#3 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php on line 23
+[26-Sep-2018 08:09:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_post_data() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php:23
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#3 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php on line 23
+[26-Sep-2018 08:10:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_post_data() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php:23
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#3 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php on line 23
+[26-Sep-2018 08:13:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_post_data() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php:22
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#3 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php on line 22
+[26-Sep-2018 08:14:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_sidebar() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\sidebar.php:2
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(688): require_once()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', true)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(110): locate_template(Array, true)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(25): get_sidebar()
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\sidebar.php on line 2
+[26-Sep-2018 08:50:09 UTC] PHP Notice:  Undefined variable: homepage in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php on line 4
+[26-Sep-2018 08:52:12 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 10
+[26-Sep-2018 08:52:33 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 10
+[26-Sep-2018 11:17:42 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 11:17:42 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 11:20:44 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 20
+[26-Sep-2018 11:21:21 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\post-template.php on line 284
+[26-Sep-2018 11:21:38 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\post-template.php on line 284
+[26-Sep-2018 11:21:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\post-template.php on line 284
+[26-Sep-2018 11:21:42 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\post-template.php on line 284
+[26-Sep-2018 16:53:56 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 16:53:56 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 16:54:02 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 16:54:02 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 16:56:28 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 16:56:28 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 16:56:30 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\post-template.php on line 284
+[26-Sep-2018 16:56:35 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 16:56:35 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 16:56:36 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 16:56:36 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 16:56:44 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 16:56:44 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 16:56:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\post-template.php on line 284
+[26-Sep-2018 16:56:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\post-template.php on line 284
+[26-Sep-2018 16:58:17 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\post-template.php on line 284
+[26-Sep-2018 16:58:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\post-template.php on line 284
+[26-Sep-2018 17:07:34 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:07:34 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:07:38 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:07:38 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:07:52 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:07:52 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:11:34 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:11:34 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:11:40 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:11:40 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:11:45 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:11:45 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:11:56 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:11:56 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:11:57 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:11:57 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:11:59 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:11:59 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:12:05 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:12:05 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:12:06 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:12:06 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:21:50 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:21:50 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:24:13 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:24:13 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:24:28 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:24:28 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:24:30 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:24:30 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:26:41 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:26:41 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:29:06 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:29:06 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:33:58 UTC] PHP Warning:  Illegal string offset 'ID' in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:33:58 UTC] PHP Warning:  Illegal string offset 'post_title' in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:33:58 UTC] PHP Warning:  Illegal string offset 'ID' in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:33:58 UTC] PHP Warning:  Illegal string offset 'post_title' in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:33:58 UTC] PHP Warning:  Illegal string offset 'ID' in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:33:58 UTC] PHP Warning:  Illegal string offset 'post_title' in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:35:16 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:35:16 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:35:16 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:35:16 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:35:16 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:36:06 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:36:06 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:36:06 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:36:06 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:36:06 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:44:27 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:44:27 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:44:27 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:44:27 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:44:27 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:26 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:26 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:26 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:26 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:26 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:28 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:28 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:28 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:28 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:28 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:30 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:30 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:30 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:30 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:30 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:30 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:30 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:30 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:31 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:31 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:31 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:31 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:45:31 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:20 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:21 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:21 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:21 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:21 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:23 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:23 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:23 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:23 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:23 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:23 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:23 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:24 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:24 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:24 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:24 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:24 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:24 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:24 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:24 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:24 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:24 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:24 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:24 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:48:24 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:49:44 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:49:44 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:49:44 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:50:14 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:50:14 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:50:14 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:50:14 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:50:14 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:51:18 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:51:18 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:51:18 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:51:18 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:51:18 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:51:19 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:51:19 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:51:19 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:51:19 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:51:19 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:51:21 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:51:21 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:51:21 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:51:21 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:51:21 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:51:24 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:51:24 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:51:49 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:51:49 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:52:03 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:03 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:03 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:03 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:03 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:05 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:05 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:05 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:05 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:05 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:06 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:06 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:06 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:06 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:06 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:48 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:48 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:48 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:48 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:48 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:49 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:49 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:49 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:49 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:49 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:50 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:50 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:50 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:50 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:52:50 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:53:35 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:53:35 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:53:35 UTC] PHP Notice:  Undefined index: ID in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:53:35 UTC] PHP Notice:  Undefined index: post_title in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:53:35 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Tax_Query as array in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php:38
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\index.php(4): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#7 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\homepage-template.php on line 38
+[26-Sep-2018 17:55:09 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 17:55:09 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:14:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ad_action() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\functions.php:13
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-settings.php(426): include()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-config.php(91): require_once('C:\\Users\\natur\\...')
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-load.php(37): require_once('C:\\Users\\natur\\...')
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\natur\\...')
+#4 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\functions.php on line 13
+[26-Sep-2018 18:14:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ad_action() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\functions.php:13
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-settings.php(426): include()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-config.php(91): require_once('C:\\Users\\natur\\...')
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-load.php(37): require_once('C:\\Users\\natur\\...')
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(13): require_once('C:\\Users\\natur\\...')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#5 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\functions.php on line 13
+[26-Sep-2018 18:15:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ad_action() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\functions.php:13
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-settings.php(426): include()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-config.php(91): require_once('C:\\Users\\natur\\...')
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-load.php(37): require_once('C:\\Users\\natur\\...')
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(13): require_once('C:\\Users\\natur\\...')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#5 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\functions.php on line 13
+[26-Sep-2018 18:16:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ad_action() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\functions.php:13
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-settings.php(426): include()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-config.php(91): require_once('C:\\Users\\natur\\...')
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-load.php(37): require_once('C:\\Users\\natur\\...')
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\natur\\...')
+#4 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\functions.php on line 13
+[26-Sep-2018 18:17:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ad_action() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\functions.php:13
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-settings.php(426): include()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-config.php(91): require_once('C:\\Users\\natur\\...')
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-load.php(37): require_once('C:\\Users\\natur\\...')
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(13): require_once('C:\\Users\\natur\\...')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#5 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\functions.php on line 13
+[26-Sep-2018 18:17:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ad_action() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\functions.php:13
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-settings.php(426): include()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-config.php(91): require_once('C:\\Users\\natur\\...')
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-load.php(37): require_once('C:\\Users\\natur\\...')
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\natur\\...')
+#4 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\functions.php on line 13
+[26-Sep-2018 18:19:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ad_action() in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\functions.php:13
+Stack trace:
+#0 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-settings.php(426): include()
+#1 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-config.php(91): require_once('C:\\Users\\natur\\...')
+#2 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-load.php(37): require_once('C:\\Users\\natur\\...')
+#3 C:\Users\natur\Desktop\Sites-folder\wordpress\wp-blog-header.php(13): require_once('C:\\Users\\natur\\...')
+#4 C:\Users\natur\Desktop\Sites-folder\wordpress\index.php(17): require('C:\\Users\\natur\\...')
+#5 {main}
+  thrown in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-content\themes\imramuha\functions.php on line 13
+[26-Sep-2018 18:23:03 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:23:03 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:23:08 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:23:08 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:27:41 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'spicepress_widgets_init' not found or invalid function name in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 18:27:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'spicepress_widgets_init' not found or invalid function name in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 18:29:41 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'spicepress_widgets_init' not found or invalid function name in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 18:49:44 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:49:44 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:49:46 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:49:46 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:49:56 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:49:56 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:52:52 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:52:52 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:52:54 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:52:54 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:52:58 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:52:58 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:53:17 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:53:17 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:53:18 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:53:18 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:53:55 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:53:55 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:54:18 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:54:18 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:54:21 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:54:21 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:54:29 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:54:29 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:54:33 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 18:54:33 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\Sites-folder\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:04:47 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:04:47 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:04:54 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:04:54 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:04:58 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:04:58 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:08:50 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:08:50 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:09:03 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:09:03 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:09:05 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:09:05 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:09:07 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:09:07 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:11:51 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:11:51 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:15:31 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:15:31 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:15:32 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:15:32 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:16:14 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:16:14 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:17:08 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:17:08 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:17:09 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:17:09 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:19:30 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:19:30 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:19:36 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:19:36 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:19:39 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:19:39 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:19:41 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:19:42 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:20:47 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:20:47 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:20:48 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:20:48 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:42:14 UTC] PHP Notice:  Array to string conversion in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php on line 57
+[26-Sep-2018 19:42:14 UTC] PHP Notice:  Array to string conversion in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php on line 57
+[26-Sep-2018 19:44:42 UTC] PHP Notice:  Array to string conversion in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php on line 57
+[26-Sep-2018 19:44:42 UTC] PHP Notice:  Array to string conversion in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php on line 57
+[26-Sep-2018 19:45:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_the_terms(), 0 passed in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php on line 57 and exactly 2 expected in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\category-template.php:1183
+Stack trace:
+#0 C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php(57): get_the_terms()
+#1 C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\template.php(690): require('C:\\Users\\natur\\...')
+#2 C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#3 C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#4 C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\index.php(5): get_template_part('homepage-templa...', '')
+#5 C:\Users\natur\De in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\category-template.php on line 1183
+[26-Sep-2018 19:46:02 UTC] PHP Notice:  Array to string conversion in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php on line 57
+[26-Sep-2018 19:46:02 UTC] PHP Notice:  Array to string conversion in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php on line 57
+[26-Sep-2018 19:46:48 UTC] PHP Notice:  Array to string conversion in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php on line 57
+[26-Sep-2018 19:46:48 UTC] PHP Notice:  Array to string conversion in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php on line 57
+[26-Sep-2018 19:48:46 UTC] PHP Notice:  Array to string conversion in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php on line 57
+[26-Sep-2018 19:48:46 UTC] PHP Notice:  Array to string conversion in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php on line 57
+[26-Sep-2018 19:49:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_category_name() in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php:57
+Stack trace:
+#0 C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\template.php(690): require()
+#1 C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\template.php(647): load_template('C:\\Users\\natur\\...', false)
+#2 C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\index.php(5): get_template_part('homepage-templa...', '')
+#4 C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\template-loader.php(74): include('C:\\Users\\natur\\...')
+#5 C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\natur\\...')
+#6 C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\index.php( in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php on line 57
+[26-Sep-2018 19:49:45 UTC] PHP Notice:  Array to string conversion in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php on line 57
+[26-Sep-2018 19:49:45 UTC] PHP Notice:  Array to string conversion in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php on line 57
+[26-Sep-2018 19:50:03 UTC] PHP Notice:  Array to string conversion in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php on line 57
+[26-Sep-2018 19:50:03 UTC] PHP Notice:  Array to string conversion in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-content\themes\imramuha\homepage-template.php on line 57
+[26-Sep-2018 19:50:33 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:50:33 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:50:40 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:50:40 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\natur\Desktop\03. CMSDEV\Labo week 1\wordpress\wp-includes\functions.php on line 3743
